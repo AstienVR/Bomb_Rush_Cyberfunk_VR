@@ -16,7 +16,7 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip](https://github.com/Astienth/Panzer_Dragoon_Remake_VR_bHaptics_Provolver/releases/download/1.0/PanzerDragoonRemakeVR_bHaptics_Provolver.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/Bomb_Rush_Cyberfunk_VR/releases/download/1.0.0/BombRushCyberFunk_VR.zip](https://github.com/Astienth/Bomb_Rush_Cyberfunk_VR/releases/download/1.0.0/BombRushCyberFunk_VR.zip)</br>
 2) Extract its content into the game root folder, the folder containing the "Bomb Rush Cyberfunk.exe".</br>
 3) Launch the game like you usually launch it via steam or the exe file.
 4) Enjoy !
