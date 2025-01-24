@@ -26,7 +26,7 @@ Dteyn: https://discord.gg/Qt7GT69Pzx </br>
 - Third person view, just like the original game
 - First person view with two levels of immersion, basic and full immersive
 - Gamepad controls in third person view
-- VR controllers supported in first person view
+- VR controllers supported in first person view ONLY
 
 ## Controls
 
